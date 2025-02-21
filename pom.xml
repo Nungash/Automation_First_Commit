@@ -33,9 +33,7 @@
 					<artifactId>maven-surefire-plugin</artifactId>
 					<version>3.2.2</version>
 					<configuration>
-					<suiteXmlFile>
-					
-					</suiteXmlFile>
+					<suite>master.xml</suite>
 					</configuration>
 				</plugin>
 
